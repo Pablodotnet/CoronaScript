@@ -1,0 +1,2 @@
+# CoronaScript
+A viral repository
